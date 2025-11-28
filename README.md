@@ -1,4 +1,4 @@
-# 🚀 Tech Night 2025: PIFando com Lógica 🌙💡
+# 🚀 Tech Night 2025.2: PIFando com Lógica 🌙💡
 
 Criado da colaboração entre alunos do 2° período do curso de Análise e Desenvolvimento de Sistemas e professores das matérias de Lógica para Computação (Guilherme F. Cavalcanti) e PIF (Diego de Freitas), **Tech Night** é um evento onde a criatividade e tecnologia se encontram, culminando em uma mostra de projetos incríveis construídos ao longo do semestre letivo! Nesta primeira edição, contamos com stands dos jogos elaborados, votação do público e premiações. E aqui, neste repositório, você encontra alguns dos jogos desenvolvidos e exibidos durante o evento.
 
