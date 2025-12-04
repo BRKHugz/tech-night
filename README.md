@@ -7,6 +7,16 @@ Conheça os projetos da galera, explore os repositórios e, claro, leve adiante 
 ## 🎮 Jogos
 
 - [Lógica à La Carte](https://github.com/giumari18/projeto-de-pif)
+- [Logic Wizard](https://github.com/MatheusAS1/Logic-Wizard-)
+- [Diaboolean](https://github.com/MarcosFraga0/pifGame-Diaboolean)
+- [Logic Fighters](https://github.com/MGT-21/game_in_c)
+- [SharkLog](https://github.com/PvssDev/sharklog-game)
+- [Point of No Return](https://github.com/RayssaRR/Point-of-No-Return)
+- [Sobrevivendo a PIF com LógiCa](https://github.com/SusanCapelo19/Jogo-Sobrevivendo-a-PIF-com-LogiCa-CAPS-2025-2)
+- [Lógica, Lógica e Mais Lógica](https://github.com/aline-henriques/LOGICA-LOGICA-E-MAIS-LOGICA)
+- [Ecos do Labirinto](https://github.com/ArchangelLoer/jogo-Ecos-do-Labirinto)
+- [LogiC Detetive](https://github.com/BabiCabral/LogiCDetetive)
+- [Corte da Verdade](https://github.com/LuizMXavier/corteDaVerdade)
 
 > Adicione seu jogo abaixo desta linha, mantendo o mesmo formato:  
 > `- [Nome do Jogo](link-do-repositório)`
